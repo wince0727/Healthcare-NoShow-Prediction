@@ -32,8 +32,6 @@ No-Show Trend by Waiting Days
 ## Dashboard Preview
 ![Dashboard Screenshot](Dashboard_Screenshot.png)
 
-(Just make sure your image file name is exactly Dashboard_Screenshot.png)
-
 ## Machine Learning Model
 
 Model Used: Decision Tree Classifier
